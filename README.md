@@ -1,7 +1,7 @@
 # Project: Travel Itinerary Planner App with Maps <br/>
 Tech Stack: HTML, TailwindCSS, TypeScript, React, Leaflet (for map), JSON server, React icon.
 
-##UI
+###UI
 ![image](https://github.com/user-attachments/assets/b540c881-e125-4c70-b03d-d7f03b90d1cc)
 ![image](https://github.com/user-attachments/assets/fb27d439-1cb3-434c-af80-23acf4a72f24)
 ![image](https://github.com/user-attachments/assets/9edb7072-6c62-4368-a205-7425458cfc08)
