@@ -1,0 +1,133 @@
+{
+  "users": [
+    {
+      "id": "277f",
+      "username": "hossainsmshakib",
+      "email": "smshakib.hossain005@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "itineraries": [
+    {
+      "id": "1ff9",
+      "userId": "277f",
+      "name": "Paris",
+      "startDate": "2024-10-18",
+      "endDate": "2024-10-25",
+      "description": "ABC",
+      "destinations": [
+        {
+          "id": "1728810044399",
+          "name": "Destination 1",
+          "activities": [],
+          "lat": 5.125962918950908,
+          "lng": 32.4687243211943
+        },
+        {
+          "id": "1728810046804",
+          "name": "Destination 2",
+          "activities": [],
+          "lat": 16.83819510142805,
+          "lng": 16.304639716944518
+        },
+        {
+          "id": "1728810048602",
+          "name": "Destination 3",
+          "activities": [],
+          "lat": 31.23347232273089,
+          "lng": 57.41763751471033
+        },
+        {
+          "id": "1728810051962",
+          "name": "Destination 4",
+          "activities": [],
+          "lat": 44.690532093842506,
+          "lng": -72.6108767751572
+        },
+        {
+          "id": "1728811817155",
+          "name": "Destination 5",
+          "activities": [],
+          "lat": 26.61996300879551,
+          "lng": 94.31391758962833
+        },
+        {
+          "id": "1728811818786",
+          "name": "Destination 6",
+          "activities": [],
+          "lat": 49.747202501375405,
+          "lng": 87.28605471821538
+        }
+      ]
+    },
+    {
+      "id": "b4d3",
+      "userId": "277f",
+      "name": "UK",
+      "startDate": "2024-10-30",
+      "endDate": "2024-11-09",
+      "description": "UK tour",
+      "destinations": [
+        {
+          "id": "1728811939150",
+          "name": "Destination 1",
+          "activities": [],
+          "lat": 1.9683648449162456,
+          "lng": 22.278323157645513
+        },
+        {
+          "id": "1728811941170",
+          "name": "Destination 2",
+          "activities": [],
+          "lat": 49.29074092493992,
+          "lng": 67.60803867825906
+        },
+        {
+          "id": "1728811942457",
+          "name": "Destination 3",
+          "activities": [],
+          "lat": 33.899602580385995,
+          "lng": 106.26128447103032
+        },
+        {
+          "id": "1728813131321",
+          "name": "Destination 4",
+          "activities": [],
+          "lat": 20.171475751351373,
+          "lng": 16.093801686068566
+        }
+      ]
+    },
+    {
+      "id": "5383",
+      "userId": "277f",
+      "name": "Japan",
+      "startDate": "2024-10-20",
+      "endDate": "2024-10-25",
+      "description": "Japan Tour",
+      "destinations": [
+        {
+          "id": "1728816265419",
+          "name": "Destination 1",
+          "activities": [],
+          "lat": 27.745773009155833,
+          "lng": 61.98658755169755
+        },
+        {
+          "id": "1728816266406",
+          "name": "Destination 2",
+          "activities": [],
+          "lat": 22.333816249306544,
+          "lng": 32.820561787490114
+        },
+        {
+          "id": "1728816267487",
+          "name": "Destination 3",
+          "activities": [],
+          "lat": 3.583597664038604,
+          "lng": 22.630022665056206
+        }
+      ]
+    }
+  ]
+}
